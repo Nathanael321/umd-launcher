@@ -12,7 +12,7 @@ This repository contains the program for a Google extension that serves to assis
 The different files that make up all the code for this project are listed below:
 - manifest.json
 - popup.html
-- popup.js
+
 ## Download
 
 In order to download this Google extension, click the following link: https://chrome.google.com/webstore/detail/umd-launcher/kmimehnhdhjfanicgiikhnopeaepflba
@@ -28,8 +28,4 @@ set to links to make them now serve as icons that the user can  different webpag
 
 In order to give this newly created webpage a more appealing look, CSS is then used to change the font, color, alignment of the icons, etc.
 
-This file also specifies a URL of an external file, popup.js
-
-## popup.js
-
-This file is currently empty as this extension doesn't require the use of JavaScript, but if JavaScript were to be used this is the file it would be put in.
+This file also specifies a URL of an external file, popup.js, which isn't displayed in the repository as that file is currently empty. This is because this extension doesn't need to use JavaScript, but if it did, it would be in the popup.js file.
