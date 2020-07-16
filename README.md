@@ -1,5 +1,5 @@
 # UMD Launcher
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fumterps.com%2F&psig=AOvVaw2Vj8SfrvPXC5pXCYKyPNVs&ust=1594846254413000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJikg7bPzeoCFQAAAAAdAAAAABAD">
+<img src="https://github.com/Nathanael321/umd-launcher/blob/master/icon_128.png?raw=true">
 
 
 ## Description
